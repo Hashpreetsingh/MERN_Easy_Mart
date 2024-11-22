@@ -1,0 +1,23 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(to bottom, #f3f4f6, #e5e7eb);
+    min-height: 100vh;
+}
+
+.welcome-banner h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.welcome-banner p {
+    font-size: 1.5rem;
+    color: #34495e;
+    margin-bottom: 30px;
+}
+
+.brand-name {
+    color: #e74c3c;
+}
